@@ -25,6 +25,9 @@ nav ul li{
     margin: 0 23px;
     color: white;
 }
+nav ul li :hover{
+    background-color: blueviolet;
+}
 .left{
     font-size: 2rem;
 }
