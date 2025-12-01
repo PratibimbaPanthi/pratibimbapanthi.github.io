@@ -58,4 +58,8 @@ nav ul li{
 }
 .footer{
     text-align: center;
+    background-color: rgb(26, 18, 78);
+}
+b{
+    font-size: larger;
 }
