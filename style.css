@@ -41,7 +41,8 @@ nav ul li{
 }
 .rightSection{
     text-align: center;
-    width: 50%;
+    width: 40%;
+    margin-top: 80px;
 }
 .rightSection img{
     
@@ -54,4 +55,7 @@ nav ul li{
 }
 .purple{
     color: rgb(26, 18, 78)
+}
+.footer{
+    text-align: center;
 }
