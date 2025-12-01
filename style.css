@@ -30,13 +30,23 @@ nav ul li{
 }
 .firstSection{
     width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
 }
 .leftSection{
     font-size: 3rem;
     margin: 70px;
+    width: 50%;
+}
+.rightSection{
+    text-align: center;
+    width: 50%;
 }
 .rightSection img{
-    width:80%;
+    width:90%;
+
 
 }
 .purple{
