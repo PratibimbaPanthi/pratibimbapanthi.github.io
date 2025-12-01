@@ -29,7 +29,6 @@ nav ul li{
     font-size: 2rem;
 }
 .firstSection{
-    width: 30%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -37,7 +36,7 @@ nav ul li{
 }
 .leftSection{
     font-size: 3rem;
-    margin: 70px;
+    margin: 0;
     width: 50%;
 }
 .rightSection{
@@ -45,7 +44,11 @@ nav ul li{
     width: 50%;
 }
 .rightSection img{
-    width:90%;
+    
+    width: 100%;
+    max-width: 400px;
+    border-radius: 50%;
+    border: 5px
 
 
 }
