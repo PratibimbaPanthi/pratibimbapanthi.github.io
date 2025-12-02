@@ -208,4 +208,49 @@ a{
     color: #00ff88;
     margin-bottom: 15px;
 }
-
+.contact{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+}
+.contact-box{
+    max-width: 900px;
+    background: rgba(0, 0, 0 , 0.7);
+    padding: 80px 40px;
+    border-radius: 30px;
+    border: 3px solid #00ff88;
+    box-shadow: 0 0 60px rgba(0,255,136,0.3);
+    text-align: center;
+}
+.contact h1{
+    font-size: 10 rem;
+    margin-bottom: 40px 0;
+}
+.text {
+    font-size: 5rem;
+    line-height: 1.9;
+    margin: 40px 0;
+    color: #ddd;
+}
+.email-btn{
+    background: #00ff88;
+    color: black;
+    padding: 22px 80px;
+    border-radius: 60px;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 40px 0;
+    transition: 0.3s;
+    display: inline-block;
+}
+.email-btn:hover{
+    transform: scale(1.1);
+    background: #00cc66;
+}
+.email{
+    font-size: 2rem;
+    color:#00ff88;
+    margin: 50px 0;
+}
