@@ -278,23 +278,3 @@ a{
     margin: 40px 0;
     color: #ddd;
 }
-.email-btn{
-    background: #00ff88;
-    color: black;
-    padding: 22px 80px;
-    border-radius: 60px;
-    font-weight: bold;
-    font-size: 2rem;
-    margin: 40px 0;
-    transition: 0.3s;
-    display: inline-block;
-}
-.email-btn:hover{
-    transform: scale(1.1);
-    background: #00cc66;
-}
-.email{
-    font-size: 2rem;
-    color:#00ff88;
-    margin: 50px 0;
-}
